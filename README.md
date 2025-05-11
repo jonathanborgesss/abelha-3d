@@ -5,7 +5,6 @@ Este projeto consiste em um site interativo, responsivo e com design moderno, ut
 ## Funcionalidades
 
 - Design responsivo para dispositivos móveis e desktops.
-- Scroll personalizado para um efeito visual único.
 - Fontes personalizadas para tipografia estilizada.
 - Efeitos de hover e animações para interações dinâmicas.
 
